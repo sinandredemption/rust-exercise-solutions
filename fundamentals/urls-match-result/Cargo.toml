@@ -1,0 +1,7 @@
+[package]
+edition = "2021"
+name = "urls_match_result"
+version = "0.1.0"
+
+[dependencies]
+url = "2"

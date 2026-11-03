@@ -1,0 +1,12 @@
+// Alice's TCP connection
+alice
+bob: Hey Bob!
+bob,carol: Hello both of you.
+
+// Bob's TCP connection
+bob
+alice: Hi Alice!
+
+// Carol's TCP connection
+carol
+alice,bob: Hello Alice and Bob!
